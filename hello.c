@@ -8,6 +8,7 @@ int main(int argc, char* argv[])
 
     else {
         printf("Hello world!");
+        printf("Hello world! - Peter");
     }
     return 0;
 }
